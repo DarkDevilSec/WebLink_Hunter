@@ -38,7 +38,7 @@ WebLink Hunter is a CLI-based Web VAPT Link Harvester that helps penetration tes
 Add screenshots to the repo under `screenshots/` and reference them in this README. Example:
 
 ```markdown
-![WebLink Hunter - Demo]([screenshots/demo.png](https://github.com/DarkDevilSec/WebLink_Hunter/blob/main/poc.png))
+![WebLink Hunter - Demo]([screenshots](https://github.com/DarkDevilSec/WebLink_Hunter/blob/main/poc.png))
 ```
 
 If you want to host screenshots externally (Imgur, GitHub issues, or GitHub Releases), paste the direct image URL here. Example placeholder link:
